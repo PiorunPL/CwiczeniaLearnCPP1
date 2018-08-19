@@ -153,6 +153,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CwiczeniaLearnCPP1.cpp" />
+    <ClCompile Include="Lesson1.cpp" />
+    <ClCompile Include="Lesson2.cpp" />
+    <ClCompile Include="Lesson3.cpp" />
+    <ClCompile Include="Lesson4.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
